@@ -1,2 +1,2 @@
 # web-dev-learning-journey
-My first portfolio website using HTML!
+👋 Hi! I'm Fazal, documenting my journey from HTML/CSS to full-stack development.
